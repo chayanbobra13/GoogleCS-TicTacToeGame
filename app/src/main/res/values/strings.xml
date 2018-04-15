@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToeGame</string>
+    <string name="board_desc">Tic Tac Toe Board</string>
+    <string name="congrats">Here are your results:</string>
+    <string name="play_again">Play again?</string>
+    <string name="image_tag_8">image tag 8</string>
+    <string name="image_tag_7">image tag 7</string>
+    <string name="image_tag_6">image tag 6</string>
+    <string name="image_tag_5">image tag 5</string>
+    <string name="image_tag_4">image tag 4</string>
+    <string name="image_tag_3">image_tag_3</string>
+    <string name="image_tag_2">image_tag_2</string>
+    <string name="image_tag_1">image_tag_1</string>
+    <string name="image_tag_0">image_tag_0</string>
+</resources>
+
